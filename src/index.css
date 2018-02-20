@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.ReactModal__Overlay.ReactModal__Overlay--after-open {
+  z-index: 9000;
+  background-color: rgba(255, 255, 255, 0.90)!important;
+}
+.react-datepicker__time-list {
+  padding-left: 10px;
+}
+
+.errorLabel {
+  color: #ff1405;
+}
+
+.eventButton {
+  width: 185px;
+}
